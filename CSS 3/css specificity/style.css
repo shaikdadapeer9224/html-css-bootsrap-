@@ -1,0 +1,14 @@
+.sp1{
+  color: black;
+  background-color:#42f55a;
+}
+#sp2{
+  color: green;
+
+}
+*{
+  color:#f542c8;
+  font-size: 5vw;
+  border: 5px;
+  border-color: red;
+}
